@@ -6,6 +6,6 @@ The video was generated on Linux using command line tools only, mostly Shell Scr
 
 The intention of this repo is to give simple examples of how to use command line tools and pragmatic usage of IIIF resources.
 
-The Video:
+## The Video:
 <a href="https://codingdavinci.de/de/daten/muenzsammlung-der-ub-leipzig" target="_blank"><img src="image.png" width="400" /></a>
 
